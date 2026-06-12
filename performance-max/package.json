@@ -1,0 +1,13 @@
+{
+    "name": "@lucas_dev96/performance-max",
+    "version": "1.0.0",
+    "description": "Performance diagnostic tool for web applications NextJs + NextJS",
+    "files": [
+        "SKILL.md",
+        "references/"
+    ],
+    "keywords": [
+        "claude-skill", "claude-code-skill", "codex-skill", "opencode-skill"
+    ],
+    "license": "MIT"
+}
